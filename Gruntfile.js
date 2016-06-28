@@ -36,7 +36,7 @@ module.exports = function (grunt) {
         connect: {
             serve: {
                 options: {
-                    port: 8090,
+                    port: 8080,
                     base: 'app',
                     hostname: 'localhost',
                     debug: true
